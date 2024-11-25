@@ -15,4 +15,3 @@
 | Julian            | 3                |
 | Maxibon           | 5                |
 | Vladislav Kraemer | 3                |
-
