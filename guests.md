@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4                |
 | Julian            | 3                |
 | Maxibon           | 5                |
-| Vladislav Kraemer | 3                |
+| Vladislav Kraemer | 5                |
