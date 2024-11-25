@@ -16,4 +16,3 @@
 | Maxibon           | 5                |
 | Vladislav Kraemer | 3                |
 
-| Vladislav Kraemer | 4                |
